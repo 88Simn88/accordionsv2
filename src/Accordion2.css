@@ -1,0 +1,19 @@
+.accordion2-title {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    padding: 10px;
+    background-color: rgb(243, 205, 245);
+    font-weight: 600;
+}
+
+.accordion2-content {
+    padding: 10px;
+    background-color:rgb(227, 240, 253);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.accordion2-sty {
+    max-width: 300px;
+}
